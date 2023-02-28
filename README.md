@@ -10,6 +10,8 @@
 
 21.Merge Two Sorted Lists - https://leetcode.com/problems/merge-two-sorted-lists/submissions/906517587/?envType=study-plan&id=level-1
 
-206.Reverse Linked List - 
+206.Reverse Linked List - https://leetcode.com/problems/reverse-linked-list/submissions/906524070/?envType=study-plan&id=level-1
+
+876. Middle of the Linked List - https://leetcode.com/problems/middle-of-the-linked-list/submissions/906522981/?envType=study-plan&id=level-1
 
 
