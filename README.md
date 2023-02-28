@@ -8,4 +8,8 @@
 
 392.Is Subsequence - https://leetcode.com/problems/is-subsequence/submissions/905348424/?envType=study-plan&id=level-1
 
+21.Merge Two Sorted Lists - https://leetcode.com/problems/merge-two-sorted-lists/submissions/906517587/?envType=study-plan&id=level-1
+
+206.Reverse Linked List - 
+
 
