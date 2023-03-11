@@ -24,6 +24,18 @@
 
 102.Binary Tree Level Order Traversal - https://leetcode.com/problems/binary-tree-level-order-traversal/submissions/908229755/?envType=study-plan&id=level-1
 
+704.Binary Search - https://leetcode.com/problems/binary-search/submissions/913249532/?envType=study-plan&id=level-1
+
+278.First Bad Version - https://leetcode.com/problems/first-bad-version/submissions/913253351/?envType=study-plan&id=level-1
+
+98.Validate Binary Search Tree - https://leetcode.com/problems/validate-binary-search-tree/submissions/913258499/?envType=study-plan&id=level-1
+
+235.Lowest Common Ancestor of a Binary Search Tree - https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/submissions/913261393/?envType=study-plan&id=level-1
+
+
+
+
+
 
 
 
