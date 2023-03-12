@@ -38,7 +38,11 @@
 
 509.Fibonacci Number - https://leetcode.com/problems/fibonacci-number/submissions/913282956/?envType=study-plan&id=level-1
 
-70. Climbing Stairs - https://leetcode.com/problems/climbing-stairs/submissions/913288951/?envType=study-plan&id=level-1
+70.Climbing Stairs - https://leetcode.com/problems/climbing-stairs/submissions/913288951/?envType=study-plan&id=level-1
+
+746.Min Cost Climbing Stairs - https://leetcode.com/problems/min-cost-climbing-stairs/submissions/913467137/?envType=study-plan&id=level-1
+
+
 
 
 
