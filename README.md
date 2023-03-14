@@ -42,6 +42,14 @@
 
 746.Min Cost Climbing Stairs - https://leetcode.com/problems/min-cost-climbing-stairs/submissions/913467137/?envType=study-plan&id=level-1
 
+Level 2
+
+202.Happy Number - https://leetcode.com/problems/happy-number/submissions/915174431/?envType=study-plan&id=level-2
+
+54.Spiral Matrix - https://leetcode.com/problems/spiral-matrix/submissions/915182349/?envType=study-plan&id=level-2
+
+
+
 
 
 
