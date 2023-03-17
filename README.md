@@ -52,6 +52,14 @@
 
 326.Power of Three - https://leetcode.com/problems/power-of-three/submissions/916397231/
 
+58.Length of Last Word - https://leetcode.com/problems/length-of-last-word/submissions/917052345/
+
+69.Sqrt(x) - https://leetcode.com/problems/sqrtx/submissions/917055184/
+
+268.Missing Number - https://leetcode.com/problems/missing-number/submissions/917061044/
+
+
+
 
 
 
