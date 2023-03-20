@@ -58,6 +58,13 @@
 
 268.Missing Number - https://leetcode.com/problems/missing-number/submissions/917061044/
 
+242.Valid Anagram - https://leetcode.com/problems/valid-anagram/submissions/918405768/
+
+163.Missing Ranges - https://leetcode.com/problems/missing-ranges/submissions/918409772/
+
+
+
+
 
 
 
